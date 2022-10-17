@@ -1,0 +1,12 @@
+{
+    "name": "alfre/test-inventario",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alfre\\TestInventario\\": "src/"
+        }
+    },
+    "require": {}
+}
